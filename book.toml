@@ -1,0 +1,6 @@
+[book]
+authors = ["kydos"]
+language = "en"
+multilingual = false
+src = "src"
+title = "The Zenoh Book"
